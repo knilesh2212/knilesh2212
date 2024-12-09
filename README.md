@@ -1,5 +1,5 @@
 ## 💫 About me 
-<p>"As a dedicated college student with a passion for full-stack development, I've achieved proficiency in essential languages and technologies including HTML, CSS, JavaScript, and MySQL, while also gaining valuable experience in Python, C, and C++. With a strong academic foundation reflected in my 9.09 CGPI score in the second semester, I'm committed to further honing my skills and contributing meaningfully to the field of software development."</p>
+<p>"As a dedicated college student with a passion for full-stack development, I've achieved proficiency in essential languages and technologies including HTML, CSS, JavaScript, flutter, dart and react while also gaining valuable experience in Python, C, and C++. With a strong academic foundation reflected in my 8.45 CGPI score in the second semester, I'm committed to further honing my skills and contributing meaningfully to the field of software development."</p>
 
 ## 💻 Tech Stack:
 <div align="left">
@@ -13,10 +13,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+###
 
 ## 📊 GitHub Stats:
 
