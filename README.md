@@ -1,7 +1,14 @@
-## 💫 About me
+## 💫 About Me
 
-<p>
-"As a dedicated college student currently in my 4th semester, I have a strong passion for full-stack development and a keen interest in mastering cutting-edge tools and technologies. My academic foundation reflects consistent growth, with an <b>8.64</b> CGPI in the 3rd semester. Proficient in key technologies such as HTML, CSS, JavaScript, Flutter, Dart and React I also have valuable experience working with Python, C, and C++. With hands-on knowledge of Firebase and MySQL, I am committed to further honing my skills and contributing meaningfully to the software development field."
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600&display=swap');
+</style>
+
+<p style="font-family: 'Lexend', sans-serif; line-height: 1.8; text-align: justify;">
+
+"As a <strong>dedicated college student</strong> currently in my <strong>4th semester</strong>, I have a strong passion for full-stack development and a keen interest in mastering cutting-edge tools and technologies. My academic foundation reflects consistent growth, with an <strong>8.64 CGPI</strong> in the 3rd semester.
+
+I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, <strong>Dart</strong>, and <strong>React</strong>. Additionally, I have valuable experience working with <strong>Python</strong>, <strong>C</strong>, and <strong>C++</strong>. With hands-on knowledge of <strong>Firebase</strong> and <strong>MySQL</strong>, I am committed to further honing my skills and contributing meaningfully to the software development field."
 
 </p>
 
@@ -76,7 +83,7 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knilesh2212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=knilesh2212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=knilesh2212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />-->
 </div>
 
 ## 🌐 Socials:
