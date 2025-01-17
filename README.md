@@ -1,6 +1,8 @@
-## 💫 About me 
+## 💫 About me
+
 <p>"As a dedicated college student with a passion for full-stack development, I've achieved proficiency in essential languages and technologies including HTML, CSS, JavaScript, flutter, dart and react while also gaining valuable experience in Python, C, and C++. With a strong academic foundation reflected in my 8.45 CGPI score in the second semester, I'm committed to further honing my skills and contributing meaningfully to the field of software development."</p>
 
+<img src="https://raw.githubusercontent.com/knilesh2212/knilesh2212/output/snake.svg" alt="Snake animation" />
 ## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -35,6 +37,7 @@
 </div>
 
 ###
+
 ###
 
 ## 📊 GitHub Stats:
@@ -44,6 +47,7 @@
 [![](https://visitcount.itsvg.in/api?id=knilesh2212&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
+
 <div align="left">
   <a href="https://www.linkedin.com/in/knilesh2212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -62,7 +66,6 @@
   </a>
 </div>
 
-
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
