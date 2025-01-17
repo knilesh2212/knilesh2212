@@ -83,19 +83,23 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
 
 ## 🌐 Socials:
 
-<div align="left">
+<div align="4">
   <a href="https://www.linkedin.com/in/knilesh2212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  <img width="4" />
   <a href="https://wa.me/qr/IGCRZMEZHJVIE1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
+  <img width="4" />
   <a href="mailto:knilesh2212@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+  <img width="4" />
   <a href="https://twitter.com/knilesh2212" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
+  <img width="4" />
   <a href="https://www.instagram.com/k_nilesh2212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
