@@ -9,7 +9,7 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
 
 ## 💻 My favorite tools and technologies:
 
-=<p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,androidstudio" /><br><br>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,c,cpp,python" /><br><br>
