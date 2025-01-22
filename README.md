@@ -4,8 +4,8 @@
 "As a <strong>dedicated college student</strong> currently in my <strong>4th semester</strong>, I have a strong passion for full-stack development and a keen interest in mastering cutting-edge tools and technologies. My academic foundation reflects consistent growth, with an <strong>8.64 CGPI</strong> in the 3rd semester.
 
 I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, <strong>Dart</strong>, and <strong>React</strong>. Additionally, I have valuable experience working with <strong>Python</strong>, <strong>C</strong>, and <strong>C++</strong>. With hands-on knowledge of <strong>Firebase</strong> and <strong>MySQL</strong>, I am committed to further honing my skills and contributing meaningfully to the software development field."
-
 </p>
+
 
 ## 💻 My favorite tools and technologies:
 
@@ -50,5 +50,10 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
   </a>
 </div>
 
-<!--## 🏆 GitHub Trophies-->
-<!--![](https://github-profile-trophy.vercel.app/?username=knilesh2212&theme=radical&no-frame=true&no-bg=false&margin-w=4)-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=knilesh2212&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<br>
+
+[![Nilesh profile views](https://u8views.com/api/v1/github/profiles/152467365/views/day-week-month-total-count.svg)](https://u8views.com/github/knilesh2212)
+
