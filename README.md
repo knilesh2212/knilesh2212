@@ -8,10 +8,11 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></img>
-  <a href="https://www.instagram.com/k_nilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt=""></a>
-  <a href="https://www.linkedin.com/in/knilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt=""></a>
-  <a href="mailto:knilesh2212@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt=""></a>
   <a href="https://knilesh-82305.web.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt=""></a>
+   <a href="mailto:knilesh2212@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt=""></a>
+  <a href="https://www.linkedin.com/in/knilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt=""></a>
+  <a href="https://www.instagram.com/k_nilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt=""></a>
+ 
 </p>
 
 
