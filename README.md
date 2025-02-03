@@ -6,6 +6,14 @@
 I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, <strong>Dart</strong>, and <strong>React</strong>. Additionally, I have valuable experience working with <strong>Python</strong>, <strong>C</strong>, and <strong>C++</strong>. With hands-on knowledge of <strong>Firebase</strong> and <strong>MySQL</strong>, I am committed to further honing my skills and contributing meaningfully to the software development field."
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></img>
+  <a href="https://www.instagram.com/k_nilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt=""></a>
+  <a href="https://www.linkedin.com/in/knilesh2212/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt=""></a>
+  <a href="mailto:knilesh2212@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt=""></a>
+  <a href="https://knilesh-82305.web.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt=""></a>
+</p>
+
 
 ## 💻 My favorite tools and technologies:
 
@@ -28,6 +36,7 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
 <!--<img src="https://github-readme-stats.vercel.app/api?username=knilesh2212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />-->
 </div>
 
+<!---
 ## 🌐 Socials:
 
 <div align="4">
@@ -51,6 +60,7 @@ I am proficient in key technologies such as <strong>HTML</strong>, <strong>CSS</
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=knilesh2212&theme=radical&no-frame=true&no-bg=false&margin-w=4)
